@@ -7,7 +7,7 @@ uni project
 4. Average duration by time block.
 5. All destination from least popular station.
 ## Running
-By defualt, to display the result of quries to stdout, we has to first to to the project directory and then run it
+By defualt, to display the result of queries to stdout, we have to first go to the project directory and then run it
 ```
 cd citybike
 dotnet run
