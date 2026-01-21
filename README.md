@@ -7,8 +7,9 @@ uni project
 4. Average duration by time block.
 5. All destination from least popular station.
 ## Running
-By defualt, to display the result of queries to stdout, we have to first go to the project directory and then run it
+by defualt, to display the result of queries to stdout, we have to first go to the project directory and then run it
 ```
 cd citybike
 dotnet run
 ```
+or you can change the path to the csv file in the source code `Program.cs`
